@@ -17,7 +17,7 @@ public class Informa_dados extends JFrame implements ActionListener
 
 	JLabel L1,L2,L3,L4,L5;
 	JButton B1;
-	JTextField T1,T2,T3,T4;
+	Static JTextField T1,T2,T3,T4;
 	JCheckBox C1,C2;
 
 	boolean j1,j2;

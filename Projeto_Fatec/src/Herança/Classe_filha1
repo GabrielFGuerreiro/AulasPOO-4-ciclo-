@@ -1,0 +1,22 @@
+package Herança;
+
+public class Classe_filha1 extends Superclasse
+{
+    private String atributo_2;
+
+    Classe_filha1()
+    {
+        super();
+        system.out.println("Acesso ao método cosntrutor da Classe_filha1");
+    }
+
+    public void set_atributo2(String atributo_2)
+    {
+        this.atributo2=atributo_2;
+    }
+
+    public String get_atributo2()
+    {
+        return atributo_2;
+    }
+}

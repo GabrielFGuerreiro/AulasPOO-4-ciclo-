@@ -1,0 +1,9 @@
+package Herança;
+
+public class Classe_filha2 extends Classe_filha1
+{
+    Classe_filha2()
+    {
+        super;
+    }
+}
