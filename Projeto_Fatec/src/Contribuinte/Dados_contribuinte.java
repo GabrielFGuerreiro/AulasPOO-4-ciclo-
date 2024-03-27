@@ -6,7 +6,7 @@ public class Dados_contribuinte
 	private String CNPJ;
 	private String cartao;
 	
-	public void setnome(String nome)
+	public void setNome(String nome)
 	{
 		this.nome=nome;
 	}
@@ -21,12 +21,12 @@ public class Dados_contribuinte
 		this.CNPJ=CNPJ;
 	}
 	
-	public void setcartao(String cartao)
+	public void setCartao(String cartao)
 	{
 		this.cartao=cartao;
 	}	
 	
-	public String getnome()
+	public String getNome()
 	{
 		return nome;
 	}
@@ -41,7 +41,7 @@ public class Dados_contribuinte
 		return CNPJ;
 	}
 	
-	public String getcartao()
+	public String getCartao()
 	{
 		return cartao;
 	}
