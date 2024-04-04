@@ -1,4 +1,4 @@
-package Automovel;
+package automovel;
 
 public class Automovel
 {
@@ -7,8 +7,8 @@ public class Automovel
 	
 	public void Informa_Automovel()
 	{
-		System.out.println("marca do carro: \t" + marca);
-		System.out.println("Modelo: Agile\t" + modelo);
+		System.out.println("Marca do carro: \t" + marca);
+		System.out.println("Modelo: \t" + modelo);
 		System.out.println("Cor do carro: \t" + cor);
 		System.out.println("Preço  do carro: \t" + preco);
 	}

@@ -1,3 +1,4 @@
+package fatec;
 public class Fatec
 {
 	//atributos

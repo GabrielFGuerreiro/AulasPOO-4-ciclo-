@@ -1,4 +1,4 @@
-package Automovel;
+package automovel;
 
 import javax.swing.JOptionPane;	
 public class Concessionaria
@@ -9,6 +9,7 @@ public class Concessionaria
 		
 		String mr,md,pr,cr;
 		double pc;
+
 		mr=JOptionPane.showInputDialog("Digite a marca:");
 		md=JOptionPane.showInputDialog("Digite o modelo:");
 		cr=JOptionPane.showInputDialog("Digite a cor:");

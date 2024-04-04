@@ -1,3 +1,5 @@
+package fatec;
+
 public class Consulta_Fatec
 {
 	public static void main(String[] args)
