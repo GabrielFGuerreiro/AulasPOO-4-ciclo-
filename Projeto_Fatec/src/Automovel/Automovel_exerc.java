@@ -1,6 +1,6 @@
 /*Modificar a classe Automóvel: encapsular os atributos como private e
 inserir os métodos set ( ) e get ( ) para cada um deles. */
-package automovel;
+package Automovel;
 
 public class Automovel_exerc
 {

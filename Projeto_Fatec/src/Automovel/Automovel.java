@@ -1,4 +1,4 @@
-package automovel;
+package Automovel;
 
 public class Automovel
 {

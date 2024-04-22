@@ -1,4 +1,4 @@
-package fatec;
+package Fatec;
 
 public class Consulta_Fatec
 {
