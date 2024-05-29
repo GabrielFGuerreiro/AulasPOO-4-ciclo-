@@ -7,7 +7,7 @@ public class Classe_filha1 extends Superclasse
     Classe_filha1()
     {
         super();
-        system.out.println("Acesso ao método cosntrutor da Classe_filha1");
+        System.out.println("Acesso ao método cosntrutor da Classe_filha1");
     }
 
     public void set_atributo2(String atributo_2)
